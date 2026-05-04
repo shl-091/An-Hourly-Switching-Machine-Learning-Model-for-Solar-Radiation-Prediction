@@ -1,0 +1,1 @@
+# An-Hourly-Switching-Machine-Learning-Model-for-Solar-Radiation-Prediction
