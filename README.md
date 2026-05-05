@@ -35,7 +35,7 @@ The repository is organized to house the core code used in our experiments:
 * **`images/`**: Contains select diagrams, charts, and photos from the original paper explaining the methodology and setup.
 
 ## Authors
-- **Shentong Li** (University of Waterloo) 
+- **Shentong Li** (University of California - San Diego | University of Waterloo) 
 - **Ryozo Nagamune** (University of British Columbia)
 
 ## Contact
